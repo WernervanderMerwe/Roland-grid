@@ -5,11 +5,17 @@ use chrome console
 3x3 grid 
 console log out row by row
 1 4 7
+
 2 5 8
+
 3 6 9
+
 logged out 
+
 [0] [1] [2]
+
 [3] [4] [5]
+
 [6] [7] [8]
 
 random numbers
