@@ -4,6 +4,7 @@ Roland-grid is a challenge one of my friends gave me to make the following:
 use chrome console
 3x3 grid 
 console log out row by row
+
 1 4 7
 
 2 5 8
